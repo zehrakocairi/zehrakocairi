@@ -48,4 +48,4 @@ From teaching Mathematics in Turkey to coding in Amsterdam, I'm on a thrilling j
 ## 🤝 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-zehrakocairi-181717?style=for-the-badge&logo=github)](https://github.com/zehrakocairi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zehra--kocairi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zehra-kocairi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zehra--kocairi-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zehra-kocairi-50a83223a)
