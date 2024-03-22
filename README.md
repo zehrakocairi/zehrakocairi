@@ -1,13 +1,5 @@
 # I'm a Developer, was a Mathematician 🚀
 
-📧 **Email:** zehrakocairi@gmail.com  
-📞 **Phone:** +31 6 29805512  
-📍 **Location:** Amsterdam
-
----
-
-## 🌟 About Me
-
 From teaching Mathematics in Turkey to coding in Amsterdam, I'm on a thrilling journey in the world of software development. I'm not just a coder; I'm a problem solver, a team player, and a lifelong learner. Passionate about crafting clean, efficient code and excited to contribute to innovative projects.
 
 ---
