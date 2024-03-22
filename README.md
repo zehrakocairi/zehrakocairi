@@ -1,4 +1,4 @@
-# I'm a Developer 🚀
+# I'm a Developer, was a Mathematician 🚀
 
 📧 **Email:** zehrakocairi@gmail.com  
 📞 **Phone:** +31 6 29805512  
