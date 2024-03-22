@@ -1,4 +1,4 @@
-# ZEHRA KOCAIRI - Full Stack Developer 🚀
+# I'm a Developer 🚀
 
 📧 **Email:** zehrakocairi@gmail.com  
 📞 **Phone:** +31 6 29805512  
